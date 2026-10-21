@@ -6,8 +6,6 @@ Version: rc2 (2026-10-17)
 
 Backport by: Steve Gordon (https://x.com/strygo)
 
-
-
 Ultra Street Fighter II: The Final Challengers is the 2017 Nintendo Switch edition of Super Street Fighter II Turbo, and it never had an arcade release. This backport rebuilds it as a CPS-2 game.
 
 Akuma has his own select cell, and Evil Ryu and Violent Ken join the original sixteen fighters with their Ultra moves, colors and endings. Shin Akuma stays hidden, for twenty fighters in all.
@@ -19,8 +17,6 @@ The Switch edition's sound effects play in every build, and on MiSTer its arrang
 The USA build is in English; the Japan build keeps the Japanese.
 
 This is a release candidate.
-
-
 
 Changes:
 

@@ -1,6 +1,6 @@
 **MAKE SURE YOU UNZUP FILES IN ROOT FOLDER NAMED: C:\USF2_Builder_RC3** 
 
-Ultra Street Fighter II — reconstruction kit
+Ultra Street Fighter II — (STRYGO's SCRIPT) Reconstruction Kit Front-End by NEON.B
 
 **STREAMLINED: DROP YOUR FILES IN THE BUILDER AND GET THE BACKPORT!**
 

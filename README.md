@@ -1,3 +1,5 @@
+**NO LONGER SUPPORTED PAST RC3**
+
 **MAKE SURE YOU UNZUP FILES IN ROOT FOLDER NAMED: C:\USF2_Builder_RC3** 
 
 Ultra Street Fighter II — (STRYGO's SCRIPT) Reconstruction Kit Front-End by NEON.B
